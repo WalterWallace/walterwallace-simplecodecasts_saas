@@ -11,3 +11,5 @@
     ui = true
 [push]
     default = simple
+[url "ssh://git@heroku.com/"]
+	insteadOf = https://git.heroku.com/
