@@ -232,3 +232,24 @@ bundle exec rails server -p $PORT -b $IP
 exit
 bundle exec rails server -p $PORT -b $IP
 exit
+close
+git push heroku master
+cd
+ls
+git push heroku master
+git 
+git add .
+git commit -m "Update readme""
+git status
+
+git commit -m "Update readme""
+cd
+git status
+git add .
+git commit -m "Update readme""
+git push origin master
+git push heroku master
+git add .
+cd
+git add .
+
